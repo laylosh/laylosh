@@ -11,7 +11,7 @@
 
 - 📫 reach me at **azamovalaylo@gmail.com**
 
-- ⚡ fun fact: **im a true crime fan**
+- ⚡ fun fact: **i watch alot of true crime docs**
 
 <h3 align="left">connect with me:</h3>
 <p align="left">

@@ -7,7 +7,7 @@
 
 - 👨‍💻 check out my personal portfolio [https://azamova.me](https://azamova.me)
 
-- 📝 i write articles sometimes on [laylosh.com](laylosh.com)
+- 📝 i write articles sometimes on [https://laylosh.com](https://laylosh.com)
 
 - 📫 reach me at **azamovalaylo@gmail.com**
 

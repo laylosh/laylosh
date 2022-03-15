@@ -1,6 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/85103583/152691846-b3584b48-cbf5-4490-9fb0-a0bdff43abf4.jpg)
 <h1 align="center">hi, i am laylo</h1>
-<h3 align="center">i am a begginer in coding, i like adventures and taylor swift.</h3>
+<h3 align="center">i am a begginer in coding, i like adventures and shows about serial killers.</h3>
 
 - 🌱 im currently learning **python**
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">

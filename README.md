@@ -1,17 +1,17 @@
 ![MasterHead](https://user-images.githubusercontent.com/85103583/152691846-b3584b48-cbf5-4490-9fb0-a0bdff43abf4.jpg)
 <h1 align="center">hi, i am laylo</h1>
-<h3 align="center">i am a begginer in coding, i like adventures and shows about serial killers.</h3>
+<h3 align="center">i am a begginer in coding, i like adventures and watching movies.</h3>
 
 - 🌱 im currently learning **python**
                                              <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
-- 👨‍💻 check out my personal portfolio [https://azamova.me](https://azamova.me)
+- 👨‍💻 i have a BSc in Computer Science.
 
-- 📝 i write articles sometimes on [https://laylosh.com](https://laylosh.com)
+- 📝 i am currently doing my MSc in Artificial Intelligence. 
 
 - 📫 reach me at **azamovalaylo@gmail.com**
 
-- ⚡ fun fact: **i watch alot of true crime docs**
+- ⚡ fun fact: **i drink alot of matcha**
 
 <h3 align="left">connect with me:</h3>
 <p align="left">
